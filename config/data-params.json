@@ -1,0 +1,4 @@
+{
+    "RawData" : ["testFile0", "testFile1", "testFile2"],
+    "LD" : ["myOutFile.txt"]
+}
